@@ -40,7 +40,7 @@ def main():
         timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
         file_name = f"{folder_name}/data_{timestamp}.txt"
         with open(file_name, 'w') as file:
-            file.write("Timestamp,Data\n")  # Writing header to the file
+            file.write("Logging Data Com 9\n")  # Writing header to the file
 
         # Record data for 5 minutes
         start_time = time.time()
