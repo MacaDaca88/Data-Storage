@@ -6,11 +6,11 @@ import time
 # Arduino serial port, change it according to your system
 ARDUINO_PORT = 'COM9'
 BAUD_RATE = 9600
-TIMEOUT = 1  # Seconds
+
 
 def main():
     # Open serial connection to Arduino
-    ser = serial.Serial(ARDUINO_PORT, BAUD_RATE, timeout=TIMEOUT)
+    ser = serial.Serial(ARDUINO_PORT, BAUD_RATE)
 
     # Create a folder to store data
     folder_name = 'arduino_data'
