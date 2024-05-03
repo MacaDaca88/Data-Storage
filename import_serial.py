@@ -61,16 +61,18 @@ def main():
                     if batt_voltage > 2.0:
                         start_notepad_recording()
                 prev_data = data  # Update previous data
-        time.sleep(0.1)  # Sleep to avoid busy-waiting
 
 import psutil
 
 def start_notepad_recording():
+    
     print("Starting notepad recording...")
     if not any("notepad.exe" in proc.name() for proc in psutil.process_iter()):
         try:
             subprocess.Popen(["C:\\Windows\\System32\\notepad.exe"])
             print("notepad app opened successfully.")
+            file.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')},{data}\n")
+            
         except Exception as e:
             print("Error opening notepad app:", e)
     else:
