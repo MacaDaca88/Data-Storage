@@ -1,0 +1,7 @@
+cd C:\Users\MacaD\Documents\py
+
+pyinstaller --onefile import_serial.py
+
+python -m PyInstaller --onefile import_serial.pyope
+
+exec(open('import_serial.py').read())
