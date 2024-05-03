@@ -1,7 +1,11 @@
 import os
 import serial
+
+import psutil
+
 from datetime import datetime
 import time
+import subprocess
 
 # Arduino serial port, change it according to your system
 ARDUINO_PORT = 'COM9'
@@ -13,7 +17,7 @@ def main():
     ser = serial.Serial(ARDUINO_PORT, BAUD_RATE)
 
     # Create a folder to store data
-    folder_name = 'arduino_data'
+    folder_name = 'Data Logs'
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
 
@@ -41,7 +45,7 @@ def main():
         file_name = f"{folder_name}/data_{timestamp}.txt"
         with open(file_name, 'w') as file:
             file.write("Logging Data Com 9\n")  # Writing header to the file
-
+            file.write(timestamp) 
         # Record data for 5 minutes
         start_time = time.time()
         prev_data = None  # Initialize variable to store previous data
@@ -51,9 +55,28 @@ def main():
                 with open(file_name, 'a') as file:
                     file.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')},{data}\n")
                 print(data)
+                # Check battery voltage and start recording if greater than 2V
+                if "Battery Voltage" in data:
+                    batt_voltage = float(data.split("=")[1].strip()[:-1])  # Extract battery voltage
+                    if batt_voltage > 2.0:
+                        start_notepad_recording()
                 prev_data = data  # Update previous data
         time.sleep(0.1)  # Sleep to avoid busy-waiting
-        file.write("\nData log session started at:", datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+
+import psutil
+
+def start_notepad_recording():
+    print("Starting notepad recording...")
+    if not any("notepad.exe" in proc.name() for proc in psutil.process_iter()):
+        try:
+            subprocess.Popen(["C:\\Windows\\System32\\notepad.exe"])
+            print("notepad app opened successfully.")
+        except Exception as e:
+            print("Error opening notepad app:", e)
+    else:
+        print("notepad app is already running.")
+
+
 
 if __name__ == "__main__":
     main()
