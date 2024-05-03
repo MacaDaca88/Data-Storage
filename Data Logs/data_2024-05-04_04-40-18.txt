@@ -1,0 +1,268 @@
+Logging Data Com 9
+2024-05-04_04-40-182024-05-04 04:40:18,No Connection
+2024-05-04 04:40:18,Battery Voltage = 3.31V
+2024-05-04 04:40:18,No Connection
+2024-05-04 04:40:18,Battery Voltage = 3.28V
+2024-05-04 04:40:19,No Connection
+2024-05-04 04:40:19,Battery Voltage = 3.29V
+2024-05-04 04:40:19,No Connection
+2024-05-04 04:40:19,Battery Voltage = 3.27V
+2024-05-04 04:40:20,No Connection
+2024-05-04 04:40:20,Battery Voltage = 3.29V
+2024-05-04 04:40:20,No Connection
+2024-05-04 04:40:20,Battery Voltage = 3.30V
+2024-05-04 04:40:21,No Connection
+2024-05-04 04:40:21,Battery Voltage = 3.30V
+2024-05-04 04:40:21,No Connection
+2024-05-04 04:40:21,Battery Voltage = 3.29V
+2024-05-04 04:40:22,No Connection
+2024-05-04 04:40:22,Battery Voltage = 3.29V
+2024-05-04 04:40:22,No Connection
+2024-05-04 04:40:22,Battery Voltage = 3.28V
+2024-05-04 04:40:23,No Connection
+2024-05-04 04:40:23,Battery Voltage = 3.29V
+2024-05-04 04:40:23,No Connection
+2024-05-04 04:40:23,Battery Voltage = 3.28V
+2024-05-04 04:40:24,No Connection
+2024-05-04 04:40:24,Battery Voltage = 3.28V
+2024-05-04 04:40:24,No Connection
+2024-05-04 04:40:24,Battery Voltage = 3.29V
+2024-05-04 04:40:25,No Connection
+2024-05-04 04:40:25,Battery Voltage = 3.27V
+2024-05-04 04:40:25,No Connection
+2024-05-04 04:40:25,Battery Voltage = 3.27V
+2024-05-04 04:40:26,No Connection
+2024-05-04 04:40:26,Battery Voltage = 3.28V
+2024-05-04 04:40:26,No Connection
+2024-05-04 04:40:26,Battery Voltage = 3.27V
+2024-05-04 04:40:27,No Connection
+2024-05-04 04:40:27,Battery Voltage = 3.27V
+2024-05-04 04:40:27,No Connection
+2024-05-04 04:40:27,Battery Voltage = 3.28V
+2024-05-04 04:40:27,No Connection
+2024-05-04 04:40:27,Battery Voltage = 3.28V
+2024-05-04 04:40:28,No Connection
+2024-05-04 04:40:28,Battery Voltage = 3.30V
+2024-05-04 04:40:28,No Connection
+2024-05-04 04:40:28,Battery Voltage = 3.28V
+2024-05-04 04:40:29,No Connection
+2024-05-04 04:40:29,Battery Voltage = 3.27V
+2024-05-04 04:40:29,No Connection
+2024-05-04 04:40:29,Battery Voltage = 3.28V
+2024-05-04 04:40:30,No Connection
+2024-05-04 04:40:30,Battery Voltage = 3.28V
+2024-05-04 04:40:30,No Connection
+2024-05-04 04:40:30,Battery Voltage = 3.30V
+2024-05-04 04:40:31,No Connection
+2024-05-04 04:40:31,Battery Voltage = 3.27V
+2024-05-04 04:40:31,No Connection
+2024-05-04 04:40:31,Battery Voltage = 3.28V
+2024-05-04 04:40:32,No Connection
+2024-05-04 04:40:32,Battery Voltage = 3.28V
+2024-05-04 04:40:32,No Connection
+2024-05-04 04:40:32,Battery Voltage = 3.27V
+2024-05-04 04:40:32,No Connection
+2024-05-04 04:40:32,Battery Voltage = 3.28V
+2024-05-04 04:40:33,No Connection
+2024-05-04 04:40:33,Battery Voltage = 3.29V
+2024-05-04 04:40:33,No Connection
+2024-05-04 04:40:33,Battery Voltage = 3.28V
+2024-05-04 04:40:34,No Connection
+2024-05-04 04:40:34,Battery Voltage = 3.28V
+2024-05-04 04:40:34,No Connection
+2024-05-04 04:40:34,Battery Voltage = 3.28V
+2024-05-04 04:40:35,No Connection
+2024-05-04 04:40:35,Battery Voltage = 3.28V
+2024-05-04 04:40:35,No Connection
+2024-05-04 04:40:35,Battery Voltage = 3.27V
+2024-05-04 04:40:36,No Connection
+2024-05-04 04:40:36,Battery Voltage = 3.27V
+2024-05-04 04:40:36,No Connection
+2024-05-04 04:40:36,Battery Voltage = 3.27V
+2024-05-04 04:40:37,No Connection
+2024-05-04 04:40:37,Battery Voltage = 3.28V
+2024-05-04 04:40:37,No Connection
+2024-05-04 04:40:37,Battery Voltage = 3.27V
+2024-05-04 04:40:37,No Connection
+2024-05-04 04:40:37,Battery Voltage = 3.27V
+2024-05-04 04:40:38,No Connection
+2024-05-04 04:40:38,Battery Voltage = 3.27V
+2024-05-04 04:40:38,No Connection
+2024-05-04 04:40:38,Battery Voltage = 3.26V
+2024-05-04 04:40:39,No Connection
+2024-05-04 04:40:39,Battery Voltage = 3.26V
+2024-05-04 04:40:39,No Connection
+2024-05-04 04:40:39,Battery Voltage = 3.28V
+2024-05-04 04:40:40,No Connection
+2024-05-04 04:40:40,Battery Voltage = 3.27V
+2024-05-04 04:40:40,No Connection
+2024-05-04 04:40:40,Battery Voltage = 3.27V
+2024-05-04 04:40:41,No Connection
+2024-05-04 04:40:41,Battery Voltage = 3.26V
+2024-05-04 04:40:41,No Connection
+2024-05-04 04:40:41,Battery Voltage = 3.27V
+2024-05-04 04:40:42,No Connection
+2024-05-04 04:40:42,Battery Voltage = 3.29V
+2024-05-04 04:40:42,e = 3.27V
+2024-05-04 04:40:42,No Connection
+2024-05-04 04:40:42,Battery Voltage = 3.30V
+2024-05-04 04:40:42,No Connection
+2024-05-04 04:40:42,Battery Voltage = 3.28V
+2024-05-04 04:40:43,No Connection
+2024-05-04 04:40:43,Battery Voltage = 3.26V
+2024-05-04 04:40:43,No Connection
+2024-05-04 04:40:43,Battery Voltage = 3.27V
+2024-05-04 04:40:44,No Connection
+2024-05-04 04:40:44,Battery Voltage = 3.27V
+2024-05-04 04:40:44,No Connection
+2024-05-04 04:40:44,Battery Voltage = 3.28V
+2024-05-04 04:40:45,No Connection
+2024-05-04 04:40:45,Battery Voltage = 3.27V
+2024-05-04 04:40:45,No Connection
+2024-05-04 04:40:45,Battery Voltage = 3.28V
+2024-05-04 04:40:46,No Connection
+2024-05-04 04:40:46,Battery Voltage = 3.28V
+2024-05-04 04:40:46,No Connection
+2024-05-04 04:40:46,Battery Voltage = 3.27V
+2024-05-04 04:40:46,No Connection
+2024-05-04 04:40:46,Battery Voltage = 3.31V
+2024-05-04 04:40:47,No Connection
+2024-05-04 04:40:47,Battery Voltage = 3.28V
+2024-05-04 04:40:47,No Connection
+2024-05-04 04:40:47,Battery Voltage = 3.27V
+2024-05-04 04:40:48,No Connection
+2024-05-04 04:40:48,Battery Voltage = 3.27V
+2024-05-04 04:40:48,No Connection
+2024-05-04 04:40:48,Battery Voltage = 3.27V
+2024-05-04 04:40:49,No Connection
+2024-05-04 04:40:49,Battery Voltage = 3.27V
+2024-05-04 04:40:49,No Connection
+2024-05-04 04:40:49,Battery Voltage = 3.27V
+2024-05-04 04:40:50,No Connection
+2024-05-04 04:40:50,Battery Voltage = 3.27V
+2024-05-04 04:40:50,No Connection
+2024-05-04 04:40:50,Battery Voltage = 3.26V
+2024-05-04 04:40:51,No Connection
+2024-05-04 04:40:51,Battery Voltage = 3.26V
+2024-05-04 04:40:51,No Connection
+2024-05-04 04:40:51,Battery Voltage = 3.26V
+2024-05-04 04:40:51,No Connection
+2024-05-04 04:40:51,Battery Voltage = 3.28V
+2024-05-04 04:40:52,No Connection
+2024-05-04 04:40:52,Battery Voltage = 3.28V
+2024-05-04 04:40:52,No Connection
+2024-05-04 04:40:52,Battery Voltage = 3.26V
+2024-05-04 04:40:53,No Connection
+2024-05-04 04:40:53,Battery Voltage = 3.27V
+2024-05-04 04:40:53,No Connection
+2024-05-04 04:40:53,Battery Voltage = 3.28V
+2024-05-04 04:40:54,No Connection
+2024-05-04 04:40:54,Battery Voltage = 3.27V
+2024-05-04 04:40:54,No Connection
+2024-05-04 04:40:54,Battery Voltage = 3.29V
+2024-05-04 04:40:55,No Connection
+2024-05-04 04:40:55,Battery Voltage = 3.27V
+2024-05-04 04:40:55,No Connection
+2024-05-04 04:40:55,Battery Voltage = 3.27V
+2024-05-04 04:40:55,No Connection
+2024-05-04 04:40:55,Battery Voltage = 3.27V
+2024-05-04 04:40:56,No Connection
+2024-05-04 04:40:56,Battery Voltage = 3.26V
+2024-05-04 04:40:56,No Connection
+2024-05-04 04:40:56,Battery Voltage = 3.27V
+2024-05-04 04:40:57,No Connection
+2024-05-04 04:40:57,Battery Voltage = 3.27V
+2024-05-04 04:40:57,No Connection
+2024-05-04 04:40:57,Battery Voltage = 3.27V
+2024-05-04 04:40:58,No Connection
+2024-05-04 04:40:58,Battery Voltage = 3.26V
+2024-05-04 04:40:58,No Connection
+2024-05-04 04:40:58,Battery Voltage = 3.27V
+2024-05-04 04:40:58,No Connection
+2024-05-04 04:40:58,Battery Voltage = 3.25V
+2024-05-04 04:40:59,No Connection
+2024-05-04 04:40:59,Battery Voltage = 3.29V
+2024-05-04 04:40:59,No Connection
+2024-05-04 04:40:59,Battery Voltage = 3.26V
+2024-05-04 04:41:00,No Connection
+2024-05-04 04:41:00,Battery Voltage = 3.28V
+2024-05-04 04:41:00,No Connection
+2024-05-04 04:41:00,Battery Voltage = 3.29V
+2024-05-04 04:41:01,No Connection
+2024-05-04 04:41:01,Battery Voltage = 3.25V
+2024-05-04 04:41:01,No Connection
+2024-05-04 04:41:01,Battery Voltage = 3.27V
+2024-05-04 04:41:02,No Connection
+2024-05-04 04:41:02,Battery Voltage = 3.26V
+2024-05-04 04:41:02,No Connection
+2024-05-04 04:41:02,Battery Voltage = 3.26V
+2024-05-04 04:41:02,No Connection
+2024-05-04 04:41:02,Battery Voltage = 3.27V
+2024-05-04 04:41:03,No Connection
+2024-05-04 04:41:03,Battery Voltage = 3.26V
+2024-05-04 04:41:03,No Connection
+2024-05-04 04:41:03,Battery Voltage = 3.28V
+2024-05-04 04:41:04,No Connection
+2024-05-04 04:41:04,Battery Voltage = 3.26V
+2024-05-04 04:41:04,No Connection
+2024-05-04 04:41:04,Battery Voltage = 3.26V
+2024-05-04 04:41:05,No Connection
+2024-05-04 04:41:05,Battery Voltage = 3.29V
+2024-05-04 04:41:05,No Connection
+2024-05-04 04:41:05,Battery Voltage = 3.30V
+2024-05-04 04:41:06,No Connection
+2024-05-04 04:41:06,Battery Voltage = 3.26V
+2024-05-04 04:41:06,No Connection
+2024-05-04 04:41:06,Battery Voltage = 3.27V
+2024-05-04 04:41:06,No Connection
+2024-05-04 04:41:06,Battery Voltage = 3.27V
+2024-05-04 04:41:06,No Connection
+2024-05-04 04:41:06,Battery Voltage = 3.25V
+2024-05-04 04:41:07,No Connection
+2024-05-04 04:41:07,Battery Voltage = 3.26V
+2024-05-04 04:41:07,No Connection
+2024-05-04 04:41:07,Battery Voltage = 3.27V
+2024-05-04 04:41:07,No Connection
+2024-05-04 04:41:07,Battery Voltage = 3.26V
+2024-05-04 04:41:07,No Connection
+2024-05-04 04:41:07,Battery Voltage = 3.26V
+2024-05-04 04:41:08,No Connection
+2024-05-04 04:41:08,Battery Voltage = 3.27V
+2024-05-04 04:41:08,No Connection
+2024-05-04 04:41:08,Battery Voltage = 3.27V
+2024-05-04 04:41:08,No Connection
+2024-05-04 04:41:08,Battery Voltage = 3.26V
+2024-05-04 04:41:09,No Connection
+2024-05-04 04:41:09,Battery Voltage = 3.26V
+2024-05-04 04:41:09,No Connection
+2024-05-04 04:41:09,Battery Voltage = 3.26V
+2024-05-04 04:41:09,No Connection
+2024-05-04 04:41:09,Battery Voltage = 3.26V
+2024-05-04 04:41:10,No Connection
+2024-05-04 04:41:10,Battery Voltage = 3.26V
+2024-05-04 04:41:11,No Connection
+2024-05-04 04:41:11,Battery Voltage = 3.27V
+2024-05-04 04:41:11,No Connection
+2024-05-04 04:41:11,Battery Voltage = 3.26V
+2024-05-04 04:41:12,No Connection
+2024-05-04 04:41:12,Battery Voltage = 3.24V
+2024-05-04 04:41:12,No Connection
+2024-05-04 04:41:12,Battery Voltage = 3.25V
+2024-05-04 04:41:13,No Connection
+2024-05-04 04:41:13,Battery Voltage = 3.26V
+2024-05-04 04:41:14,No Connection
+2024-05-04 04:41:14,Battery Voltage = 3.27V
+2024-05-04 04:41:14,No Connection
+2024-05-04 04:41:14,Battery Voltage = 3.28V
+2024-05-04 04:41:15,No Connection
+2024-05-04 04:41:15,Battery Voltage = 3.25V
+2024-05-04 04:41:15,No Connection
+2024-05-04 04:41:15,Battery Voltage = 3.26V
+2024-05-04 04:41:16,No Connection
+2024-05-04 04:41:16,Battery Voltage = 3.28V
+2024-05-04 04:41:17,No Connection
+2024-05-04 04:41:17,Battery Voltage = 3.31V
+2024-05-04 04:41:17,No Connection
+2024-05-04 04:41:17,Battery Voltage = 3.28V
+2024-05-04 04:41:18,No Connection
+2024-05-04 04:41:18,Battery Voltage = 3.28V
