@@ -1,0 +1,5 @@
+Logging Data Com 9
+2024-05-04_12-58-372024-05-04 12:58:39,Neo6M GPS module test code
+2024-05-04 12:58:42,Battery Voltage = 3.32V
+2024-05-04 12:58:43,No Connection
+2024-05-04 12:58:43,Battery Voltage = 3.27V

@@ -3,3 +3,5 @@ cd C:\Users\MacaD\Documents\py\Data-Storage                      #Directory
 python -m PyInstaller --onefile import_serial.py                 #Create .exe
 
 exec(open('import_serial.py').read())                            #Run Script
+
+exec(open('temps.py').read())                            #Run Script

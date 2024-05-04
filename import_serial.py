@@ -43,7 +43,7 @@ def main():
         file_name = f"{folder_name}/data_{timestamp}.txt"
         with open(file_name, 'w') as file:
             file.write("Logging Data Com 9\n")  # Writing header to the file
-            file.write(timestamp)
+            file.write("timestamp\n")
         
         # Record data for 5 minutes
         start_time = time.time()
@@ -64,12 +64,15 @@ def main():
 
 def start_notepad_recording(data):
     print("Starting notepad recording...")
-    try:
-        subprocess.Popen(["C:\\Windows\\System32\\notepad.exe"])
-        print("Notepad app opened successfully.")
-        file.print(data)
-    except Exception as e:
-        print("Error opening Notepad app:", e)
+    if not any("notepad.exe" in proc.name() for proc in psutil.process_iter()):
+        try:
+            subprocess.Popen(["C:\\Windows\\System32\\notepad.exe"])
+            print("notepad app opened successfully.")
+            # Here you can do something with the data, like writing it to a file or directly to Notepad.
+        except Exception as e:
+            print("Error opening notepad app:", e)
+    else:
+        print("notepad app is already running.")
 
 
 if __name__ == "__main__":
